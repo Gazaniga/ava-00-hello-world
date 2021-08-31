@@ -4,7 +4,7 @@ Buenas!
 
 Esta atividade é apenas uma cobaia para experimentar o git, github e github classroom. _Não conta na pontuação da disciplina._
 
-Para criar seu repositório, esteja logado no GitHub e acesse este link do GitHub Classroom <TODO> (isto só precisa **ser feito uma vez**!)
+Para criar seu repositório, esteja logado no GitHub e acesse este link do GitHub Classroom <https://classroom.github.com/a/QYLAVqOx> (isto só precisa **ser feito uma vez**!)
 
 No arquivo [App.java](src/App.java) há uma instrução `System.out.println("Olá mundo!");`. Altere-a como quiser, execute, certifique-se de que não está quebrando e suba o código para seu repositório.
 
